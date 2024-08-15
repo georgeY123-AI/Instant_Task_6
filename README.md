@@ -1,5 +1,10 @@
 # Instant_Task_6
 
+All abut DataOps and MLOps 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ### DataOps
 
 **DataOps** is a set of practices, tools, and processes aimed at improving the quality, speed, and reliability of data analytics by automating data management and operationalizing data workflows. It draws inspiration from DevOps and focuses on collaboration between data scientists, engineers, and operations teams to deliver data-driven solutions more efficiently.
